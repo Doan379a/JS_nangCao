@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "866f",
+      "name": "đoàn tê đê",
+      "price": "222255555",
+      "image": ""
+    },
+    {
+      "id": "f173",
+      "name": "đoàn tê đê",
+      "price": "3333",
+      "image": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "123456"
+    }
+  ]
+}
